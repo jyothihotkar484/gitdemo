@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="83" started-at="2020-06-23T22:38:42 IST" finished-at="2020-06-23T22:38:42 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="83" started-at="2020-06-23T22:38:42 IST" finished-at="2020-06-23T22:38:42 IST">
+      <class name="mavenproject.Mavenjava.ApiTest">
+        <test-method status="PASS" signature="login()[pri:0, instance:mavenproject.Mavenjava.ApiTest@396f6598]" name="login" duration-ms="0" started-at="2020-06-23T22:38:42 IST" finished-at="2020-06-23T22:38:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:mavenproject.Mavenjava.ApiTest@396f6598]" name="logout" duration-ms="1" started-at="2020-06-23T22:38:42 IST" finished-at="2020-06-23T22:38:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+      </class> <!-- mavenproject.Mavenjava.ApiTest -->
+      <class name="mavenproject.Mavenjava.AppiumTest">
+        <test-method status="PASS" signature="batch()[pri:0, instance:mavenproject.Mavenjava.AppiumTest@394e1a0f]" name="batch" duration-ms="1" started-at="2020-06-23T22:38:42 IST" finished-at="2020-06-23T22:38:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- batch -->
+        <test-method status="PASS" signature="run()[pri:0, instance:mavenproject.Mavenjava.AppiumTest@394e1a0f]" name="run" duration-ms="1" started-at="2020-06-23T22:38:42 IST" finished-at="2020-06-23T22:38:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- run -->
+      </class> <!-- mavenproject.Mavenjava.AppiumTest -->
+      <class name="mavenproject.Mavenjava.SeleniumTest">
+        <test-method status="PASS" signature="purchase()[pri:0, instance:mavenproject.Mavenjava.SeleniumTest@5a1c0542]" name="purchase" duration-ms="9" started-at="2020-06-23T22:38:42 IST" finished-at="2020-06-23T22:38:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- purchase -->
+        <test-method status="PASS" signature="rights()[pri:0, instance:mavenproject.Mavenjava.SeleniumTest@5a1c0542]" name="rights" duration-ms="0" started-at="2020-06-23T22:38:42 IST" finished-at="2020-06-23T22:38:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rights -->
+      </class> <!-- mavenproject.Mavenjava.SeleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
