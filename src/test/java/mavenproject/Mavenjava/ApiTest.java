@@ -8,11 +8,13 @@ public class ApiTest {
 	public void login()
 	{
 		System.out.println("hello");
+		System.out.println("git hub changes");
 	}
 
 	@Test
 	public void logout()
 	{
 		System.out.println("Bye");
+		System.out.println("git hub changes");
 	}
 }
