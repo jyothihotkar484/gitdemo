@@ -11,6 +11,7 @@ public class ApiTest {
 		System.out.println("git hub changes");
 		System.out.println("git hub changes1");
 		System.out.println("git hub changes2");
+		System.out.println("git branch changes2");
 	}
 
 	@Test
@@ -20,5 +21,6 @@ public class ApiTest {
 		System.out.println("git hub changes");
 		System.out.println("git hub changes3");
 		System.out.println("git hub changes4");
+		System.out.println("git branch changes2");
 	}
 }
