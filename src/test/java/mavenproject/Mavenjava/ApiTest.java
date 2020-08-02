@@ -9,6 +9,8 @@ public class ApiTest {
 	{
 		System.out.println("hello");
 		System.out.println("git hub changes");
+		System.out.println("git hub changes1");
+		System.out.println("git hub changes2");
 	}
 
 	@Test
@@ -16,5 +18,7 @@ public class ApiTest {
 	{
 		System.out.println("Bye");
 		System.out.println("git hub changes");
+		System.out.println("git hub changes3");
+		System.out.println("git hub changes4");
 	}
 }
